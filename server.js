@@ -43,3 +43,5 @@ app.listen(PORT, () => {
       .white
   );
 });
+
+//MONGO_URL = "mongodb+srv://devdeveloper9695:ecomm@ecomm.qfbuqrk.mongodb.net/?retryWrites=true&w=majority"
